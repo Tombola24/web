@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803395298600",
+    "project_id": "mobile-programming-92ebb",
+    "storage_bucket": "mobile-programming-92ebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803395298600:android:691bc5d100ab75b4781c1d",
+        "android_client_info": {
+          "package_name": "com.example.ass2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcgEjDA_JVflynthJpQMy4X1FSpadNRI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
